@@ -2,7 +2,7 @@
 
 ![Thirsty Wine Logo]([path/to/your/image.png](https://drive.google.com/file/d/1E8wbOTDWiY9IwFlgBw-JBhmUwxEms5uW/view?usp=sharing))
 
-## Overview
+## Introduction:
 
 The **Thirsty Wine** website is an e-commerce platform where users can browse, search, purchase, and review wines. It also offers essential features such as:
 
@@ -29,5 +29,10 @@ This project encompasses **both manual and automated testing** of the Thirsty Wi
   Used for clear, specification-driven test scenarios.
 
 ---
+## Deployed App :
+The deployed application can be accessed at: [Link](https://pay-pal-pioneers-068.vercel.app/)
+
+## Test Plan :
+The Test Plan describes how we will test the Thirsty Wine website, what features will be tested, and the timeline for testing. It outlines the goals, approach, and schedule for ensuring the website works well and is secure. You can find the full Test Plan document [here](https://docs.google.com/document/d/18QMxeUn1zCOouSUOilEDfRasjg9HMqhUYoxkVI10_LI/edit?usp=sharing)
 
 
