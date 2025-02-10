@@ -1,40 +1,88 @@
-# B42_SDET_002_Test-Titans
+# Thirsty Wine Website Automation Testing
 
-![Thirsty Wine Logo]([path/to/your/image.png](https://drive.google.com/file/d/1E8wbOTDWiY9IwFlgBw-JBhmUwxEms5uW/view?usp=sharing))
+## Project Title: Thirsty Wine
 
-## Introduction:
+### Introduction
+The **Thirsty Wine** website is an e-commerce platform where users can browse, search, purchase, and review various wines. The website also offers features like user registration, login, order management, payment processing, and customer support. This test plan outlines the **manual and automation testing** strategy to ensure that all core functionalities work as expected, are user-friendly and perform efficiently across different devices and browsers.
 
-The **Thirsty Wine** website is an e-commerce platform where users can browse, search, purchase, and review wines. It also offers essential features such as:
+### Project Type
+This project focuses on both **manual and automated testing** of the Thirsty Wine website's front end. It follows the **Page Object Model (POM)** for structuring automation tests in **Cypress**, ensuring maintainability and reusability. The testing covers **functionality, usability, and cross-browser/device compatibility**, with **BDD Cucumber** used for clear test specifications.
 
-- **User Registration & Login**
-- **Order Management**
-- **Payment Processing**
-- **Customer Support**
+### Deployed Application
+The deployed application can be accessed at: [Thirsty Wine Website](https://pay-pal-pioneers-068.vercel.app/)
 
-This test plan outlines the manual testing strategy to ensure that all core functionalities work as expected, are user-friendly, and perform efficiently across various devices and browsers.
+## Test Plan
+The **Test Plan** describes the testing approach, features to be tested, and the timeline. It ensures the website functions correctly, securely, and efficiently. You can find the full **Test Plan document here[https://docs.google.com/document/d/18QMxeUn1zCOouSUOilEDfRasjg9HMqhUYoxkVI10_LI/edit?usp=sharing]
 
-## Project Type
+## Test Scenarios
+The **test scenarios** validate key features such as user registration, login, and password recovery. These scenarios guide the testing process for both **functionality and usability**. You can view the **detailed test scenarios here[]
 
-This project encompasses **both manual and automated testing** of the Thirsty Wine website's frontend. Key testing strategies include:
+## Test Cases
+The **test cases** focus on functional and usability testing for major features like Forgot Password, Login, and Registration. These ensure that the website is user-friendly and works correctly. You can view the **detailed test cases here.**
 
-- **Page Object Model (POM):**  
-  Ensures maintainability and reusability in automation tests using Cypress.
+## Bug Reports
+During testing, defects were logged with **detailed reproduction steps and severity levels** to efficiently track and resolve issues. You can find the **full bug report here.**
 
-- **Test Coverage:**  
-  - Functionality
-  - Usability
-  - Cross-browser/device compatibility
+## Test Summary Report
+The **test summary report** overviews the testing process, including tested features, results, and identified issues. It offers insight into the overall quality of the **Thirsty Wine website**. You can view the **detailed test summary report here.**
 
-- **BDD Cucumber:**  
-  Used for clear, specification-driven test scenarios.
+## Mind Map
+The **mind map** visually represents the testing process, displaying how different features and test scenarios are connected. It helps guide and structure the testing plan effectively. You can view the **detailed mind map here.**
+
+## Video Walkthrough
+A video presentation of the project is available **here.**
 
 ---
-## Deployed App :
-The deployed application can be accessed at: [Link](https://pay-pal-pioneers-068.vercel.app/)
 
-## Test Plan :
-The Test Plan describes how we will test the Thirsty Wine website, what features will be tested, and the timeline for testing. 
-It outlines the goals, approach, and schedule for ensuring the website works well and is secure. 
-You can find the full Test Plan document [here](https://docs.google.com/document/d/18QMxeUn1zCOouSUOilEDfRasjg9HMqhUYoxkVI10_LI/edit?usp=sharing)
+## Features
+- **User Registration & Login**
+- **Product Browsing & Search**
+- **Shopping Cart**
+- **Checkout Process**
+- **Payment Gateway**
+- **Order Management**
+- **User Reviews & Ratings**
+- **Cross-Browser Compatibility**
+- **Security Features**
+- **Refunds/Returns**
+- **Notifications**
 
+---
 
+## Usage: How to Use the Project for Testing
+1. **Access the Website**: Visit [Thirsty Wine Website](https://pay-pal-pioneers-068.vercel.app/).
+2. **Automation with Cypress**: Run automated tests using **Cypress** to verify functionality, UI elements, and smooth user experience across browsers and devices.
+3. **Test Key Features**: Go through core functionalities (registration, login, cart, checkout) and verify expected behavior.
+4. **Cross-Browser Testing**: Open the website on **Chrome, Firefox, and Safari** to check compatibility.
+5. **Report Bugs**: If any issues arise, report them using the **bug report format** provided.
+
+## Test Credentials
+For testing purposes, use the following test accounts:
+
+**Test User 1**  
+- **Username**: parassanghvi@gmail.com  
+- **Password**: 123456  
+
+**Test User 2**  
+- **Username**: satyajitsahu@gmail.com  
+- **Password**: 123456  
+
+---
+
+## Technology Stack
+The **Thirsty Wine** website is built using the following technologies:
+
+### Testing Tools:
+- **Cypress** – For automated testing
+- **Google Sheets** – For documenting test cases and logging defects
+- **Google Docs** – For documentation
+- **XMind Map** – For mind maps
+- **Google Drive** – For file storage
+
+---
+
+### Author
+**Paraskumar Zumbarlal Sanghvi**  
+Software Engineer & QA Automation Enthusiast  
+
+---
